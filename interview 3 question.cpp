@@ -1,4 +1,4 @@
-// Program1: To find the fibonacci series using recursion
+// Program3: To find the fibonacci series using recursion
 #include<iostream>    
 using namespace std;      
 void printFibonacci(int n){    
